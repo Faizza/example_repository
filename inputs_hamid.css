@@ -1,0 +1,17 @@
+input{
+	display: block;
+	margin:10px;
+	border:4px ridge #8A2BE2;
+	border-radius: 10px;
+}
+button{
+	width: 175px;
+	height: 30px;
+	margin:10px;
+	background: #6A5ACD;
+	font-weight: bold;
+	font-family: arial, sans-serif;
+	letter-spacing: 2px;
+	border-radius: 10px;
+	font-size: 15pt;
+}
